@@ -1,0 +1,13 @@
+.table > tbody > tr > td > img {
+    width: 100px;
+}
+
+.table > thead > tr > * {
+    vertical-align: middle;
+}
+
+.carousel-inner {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
